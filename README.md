@@ -23,7 +23,17 @@
 ---
 
 ### 📈 GitHub Stats
-<!-- We will add dynamic stat cards here next -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveencoding75&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencoding75&theme=radical" alt="Naveen's GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveencoding75&layout=compact&theme=radical" alt="Naveen's Top Languages" />
+</div>
 
 ---
 
