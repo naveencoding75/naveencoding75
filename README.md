@@ -24,15 +24,17 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveencoding75&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" />
-</div>
+  
+[![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveencoding75&show_icons=true&theme=radical)](https://github.com/naveencoding75)
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencoding75&theme=radical" alt="Naveen's GitHub Streak" />
-</div>
+
+[![Naveen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveencoding75&theme=radical)](https://github.com/naveencoding75)
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveencoding75&layout=compact&theme=radical" alt="Naveen's Top Languages" />
+
+[![Naveen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveencoding75&layout=compact&theme=radical)](https://github.com/naveencoding75)
+
 </div>
 
 ---
