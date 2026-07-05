@@ -24,18 +24,18 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <!-- Top Card using a stable mirror -->
-  <img src="https://github-readme-stats-jxnblk.vercel.app/api?username=naveencoding75&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" />
+  <!-- Official Top Card with Cache Buster -->
+  <img src="https://github-readme-stats.vercel.app/api?username=naveencoding75&show_icons=true&theme=radical&v=1" alt="Naveen's GitHub Stats" />
   
   <br/><br/>
   
-  <!-- Middle Card (Already working perfectly) -->
+  <!-- Middle Card (Working perfectly) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencoding75&theme=radical" alt="Naveen's GitHub Streak" />
   
   <br/><br/>
   
-  <!-- Bottom Card using a stable mirror -->
-  <img src="https://github-readme-stats-jxnblk.vercel.app/api/top-langs/?username=naveencoding75&layout=compact&theme=radical" alt="Naveen's Top Languages" />
+  <!-- Official Bottom Card with Cache Buster -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveencoding75&layout=compact&theme=radical&v=1" alt="Naveen's Top Languages" />
 </div>
 
 ---
